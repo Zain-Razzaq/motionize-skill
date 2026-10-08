@@ -1,4 +1,4 @@
-# Motionize
+# Motionize Skill
 
 Turn what you built into a short, shareable launch video — music, motion, and share copy included. One command.
 

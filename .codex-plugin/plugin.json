@@ -6,7 +6,7 @@
   "keywords": ["video", "launch", "motion", "skill"],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Motionize",
+    "displayName": "Motionize Skill",
     "shortDescription": "Turn your project into a polished launch video.",
     "longDescription": "Create a short, shareable launch video from a project or website, complete with a tailored story, motion, music, sound effects, poster frame, and share copy.",
     "category": "Productivity",
